@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, don't
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: $g \approx π^2$
+- ⚡ Fun fact: $g = π^2$
 
 
